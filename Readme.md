@@ -11,7 +11,7 @@ Create an application that processes the file and identifies each different mess
 ```
 the.ip.address
 thePort
-["Codec1", "Codec2", "..."]
+Codec1, Codec2, ...
 ```
 
 - IP comes from `c=` line
@@ -35,7 +35,7 @@ a=encryption:optional
 ```
 154.195.20.236
 15082
-["G722", "PCMU"]
+G722, PCMU
 ```
 
 ## Assignment 2
